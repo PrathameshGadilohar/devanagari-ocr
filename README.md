@@ -1,6 +1,15 @@
 # devanagari-ocr
 
-1. Clone the repository
+Requirements :
+1. Python
+2. Anaconda
+3. Git
+
+Steps for Execution:
+1. Clone the repository in appropriate folder
+```
+git clone https://github.com/PrathameshGadilohar/devanagari-ocr.git
+```
 2. Create a new environment
 ```
 conda create -p venv python -y
@@ -9,12 +18,12 @@ conda create -p venv python -y
 ```
 conda activate venv/
 ```
-5. Install the required libarries
+4. Install the required libarries
 ```
 pip install -r reqquirements.txt
 ```
-6. Run app.py
+5. Run app.py
 ```
 python app.py
 ```
-7. Ctrl + Click on the localhost IP
+6. Ctrl + Click on the localhost IP
