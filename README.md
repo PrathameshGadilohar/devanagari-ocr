@@ -11,6 +11,7 @@ Steps for Execution:
 git clone https://github.com/PrathameshGadilohar/devanagari-ocr.git
 ```
 2. Create a new environment
+	Open New Terminal ->  Use Command Prompt
 ```
 conda create -p venv python -y
 ```
